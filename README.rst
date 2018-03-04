@@ -78,10 +78,10 @@ parameter in GET.
 .. |coverage-develop| image:: https://coveralls.io/repos/Fantomas42/django-sekh/badge.png?branch=develop
    :alt: Coverage of the code
    :target: https://coveralls.io/r/Fantomas42/django-sekh
-.. |latest-version| image:: https://pypip.in/v/django-sekh/badge.png
+.. |latest-version| image:: https://img.shields.io/pypi/v/django-sekh.svg
    :alt: Latest version on Pypi
    :target: https://crate.io/packages/django-sekh/
-.. |downloads| image:: https://pypip.in/d/django-sekh/badge.png
+.. |downloads| image:: https://img.shields.io/pypi/dm/django-sekh.svg
    :alt: Downloads from Pypi
    :target: https://crate.io/packages/django-sekh/
 
